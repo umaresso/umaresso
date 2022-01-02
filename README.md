@@ -3,16 +3,18 @@
 
 ## I'm a Student,Brother and a learner !!
 
-- 🔭 I just made a Front End for .[FacebookApp]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Sing music of Multiple languages and genre
+- 🔭 I just made a [FacebookApp]
+- 🌱 I’m currently learning Epic Designing Techniques
+- 👯 I’m looking to collaborate with other Front End Developers on Massive Projects
+- 🥅 2022 Goals: 
+                1) Master React Js
+                2) Contribute to Open Source projects
+- ⚡ Fun fact: I love to Sing music of Multiple Genres
 
 ### Connect with me:
 
-[<img align="left" alt="Umarkhatab | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="UmarKhatab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedInn]
+[<img align="left" alt="Umarkhatab | Twitter" width="22px" color="white" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][Twitter]
+[<img align="left" alt="UmarKhatab | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][LinkedInn]
 
 <br />
 
@@ -30,4 +32,4 @@
 [FacebookApp]: https://github.com/umaresso/Facebook-App
 [LinkedInn]: https://www.linkedin.com/in/umar-khatab-98329322a
 [Twitter]: https://twitter.com/umarkhatab465
-[dummy]: #
+[dummy]: https://github.com/umaresso
