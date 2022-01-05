@@ -30,6 +30,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][dummy]
 
 [FacebookApp]: https://github.com/umaresso/Facebook-App
-[LinkedInn]: https://www.linkedin.com/in/umar-khatab-98329322a
+[LinkedInn]: https://www.linkedin.com/in/umarkhatab465
 [Twitter]: https://twitter.com/umarkhatab465
 [dummy]: https://github.com/umaresso
