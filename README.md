@@ -1,14 +1,16 @@
 ### Hi there, I'm Umar Khatab  👋 
 
 
-## I'm a Student,Brother and a learner !!
+## I'm a ReactJs developer and Web3.0 enthusiast !!
 
-- 🔭 I just made a [FacebookApp]
-- 🌱 I’m currently learning Epic Designing Techniques
+- 🔭 I just made a [FacebookApp] using ReactJs
+- 🌱 I’m currently learning about BlockChain
 - 👯 I’m looking to collaborate with other Front End Developers on Massive Projects
 - 🥅 2022 Goals: 
                 1) Master React Js
-                2) Contribute to Open Source projects
+                2) Master BlockChain 
+                3) Contribute to Open Source projects
+                
 - ⚡ Fun fact: I love to Sing music of Multiple Genres
 
 ### Connect with me:
