@@ -1,7 +1,7 @@
 ### Hi there, I'm Umar Khatab  👋 
 
 
-## I'm a ReactJs developer and Web3.0 enthusiast !!
+## I'm a ReactJs Developer,Teacher and Web3.0 enthusiast !!
 
 - 🔭 I just made a [FacebookApp] using ReactJs
 - 🌱 I’m currently learning about BlockChain
