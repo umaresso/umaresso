@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to Sing music of Multiple Genres
 
 ### Youtube 
-[HTML PlayList][html]
+=> [HTML PlayList][html_yt]
 
 ### Connect with me:
 
@@ -38,4 +38,4 @@
 [LinkedInn]: https://www.linkedin.com/in/umarkhatab465
 [Twitter]: https://twitter.com/umarkhatab465
 [dummy]: https://github.com/umaresso
-[html_yt]: youtube.com/watch?v=UqaxJG1vvMk&t=64s
+[html_yt]: https://www.youtube.com/watch?v=UqaxJG1vvMk&t=64s
