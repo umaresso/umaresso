@@ -41,4 +41,4 @@
 [LinkedInn]: https://www.linkedin.com/in/umarkhatab465
 [Twitter]: https://twitter.com/umarkhatab465
 [dummy]: https://github.com/umaresso
-[html_yt]: https://www.youtube.com/watch?v=UqaxJG1vvMk&t
+[html_yt]: https://www.youtube.com/watch?v=UqaxJG1vvMk&t=64s
