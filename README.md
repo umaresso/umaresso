@@ -7,8 +7,11 @@
 - 🌱 I’m currently learning about BlockChain
 - 👯 I’m looking to collaborate with other Front End Developers on Massive Projects
 - 🥅 2022 Goals: 
+
                 1) Master React Js
+
                 2) Master BlockChain 
+
                 3) Contribute to Open Source projects
                 
 - ⚡ Fun fact: I love to Sing music of Multiple Genres
