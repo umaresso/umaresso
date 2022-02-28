@@ -1,18 +1,20 @@
 ### Hi there, I'm Umar Khatab  👋 
 
 
-## I'm a ReactJs Developer,Teacher and Web3.0 enthusiast !!
+## I'm a Full Stack Blockchain Developer !!
 
-- 🔭 I just made a [CounterFeit Solver] using ReactJs and BlockChain Principles
-- 🌱 I’m currently learning about BlockChain
-- 👯 I’m looking to collaborate with other Front End Developers on Massive Projects
+- 🔭 I just made a [Decentralized Todo App] using ReactJs,Solidity,truffle and Web3 js 
+- 🌱 I’m currently learning about Full Stack Ethereum Blockchain Web Development
+- 👯 I’m looking to collaborate with other Blockchain Developers on Massive Projects
 - 🥅 2022 Goals: 
 
-                1) Master React Js
+                1) Master Building Dapps
 
-                2) Master BlockChain 
+                2) Building Massive Defi and DAOS
 
                 3) Contribute to Open Source projects
+                
+                4) Get a Job as a Full Stack Blockchain Web Developer
                 
 - ⚡ Fun fact: I love to Sing music of Multiple Genres
 
@@ -39,7 +41,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/nolan/64/github.png" />][dummy]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][dummy]
 
-[CounterFeit Solver]: https://github.com/umaresso/Umar-Khatab
+[Decentralized Todo App]: https://d-todo-umaresso.vercel.app
 [LinkedInn]: https://www.linkedin.com/in/umarkhatab465
 [Twitter]: https://twitter.com/umarkhatab465
 [dummy]: https://github.com/umaresso
