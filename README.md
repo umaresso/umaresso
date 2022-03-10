@@ -3,7 +3,7 @@
 
 ## I'm a Full Stack Blockchain Developer !!
 
-- 🔭 I just made a [Decentralized Todo App] using ReactJs,Solidity,truffle and Web3 js 
+- 🔭 I just made a [CryptoCurrency Exchange Platform] using ReactJs,Solidity,truffle and Web3 js 
 - 🌱 I’m currently learning about Full Stack Ethereum Blockchain Web Development
 - 👯 I’m looking to collaborate with other Blockchain Developers on Massive Projects
 - 🥅 2022 Goals: 
@@ -41,7 +41,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/nolan/64/github.png" />][dummy]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][dummy]
 
-[Decentralized Todo App]: https://d-todo-umaresso.vercel.app
+[CryptoCurrency Exchange Platform]: https://eth-swap-umaresso.vercel.app/
 [LinkedInn]: https://www.linkedin.com/in/umarkhatab465
 [Twitter]: https://twitter.com/umarkhatab465
 [dummy]: https://github.com/umaresso
