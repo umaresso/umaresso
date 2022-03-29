@@ -3,14 +3,14 @@
 
 ## I'm a Full Stack Blockchain Developer !!
 
-- 🔭 I just made a [CryptoCurrency Exchange Platform] using ReactJs,Solidity,truffle and Web3 js 
-- 🌱 I’m currently learning about Full Stack Ethereum Blockchain Web Development
+- 🔭 I just have made a [CryptoCurrency Exchange Platform] using ReactJs,Solidity,truffle and Web3 js 
+- 🌱 I’m currently trying to develop Decentalized Autonomus Systems on top of Ethereum
 - 👯 I’m looking to collaborate with other Blockchain Developers on Massive Projects
 - 🥅 2022 Goals: 
 
                 1) Master Building Dapps
 
-                2) Building Massive Defi and DAOS
+                2) Building Impactful DAOS
 
                 3) Contribute to Open Source projects
                 
