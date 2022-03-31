@@ -32,6 +32,9 @@
 
 ### Languages and Tools:
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][dummy]
+[<img align="left" alt="Solidity" width="26px" src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png" />][dummy]
+[<img align="left" alt="Ethereum" width="26px" src="https://w7.pngwing.com/pngs/407/710/png-transparent-ethereum-cryptocurrency-bitcoin-cash-smart-contract-bitcoin-blue-angle-triangle.png" />][dummy]
+
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
 />][dummy]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][dummy]
