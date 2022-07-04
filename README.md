@@ -1,7 +1,6 @@
-### Welcome to the Profile Page  👋 
-## It's Umar Khatab Here !
-
-## A Rust Developer !!
+### Thank you for visting my Profile  
+##      Hey there 👋 , I am Umar Khatab!
+### I am a Rustacean !!
 
 -  I just have made a [Grepper] in Rust.
 -  Getting Proficient in Rust.
