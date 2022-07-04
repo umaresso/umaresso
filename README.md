@@ -23,6 +23,8 @@
 
 ### Connect with me:
 If you want to have real chat with me on Social media , feel free to Connect at : 
+<br/>
+
 [<img align="left" alt="Umarkhatab | Twitter" width="22px" color="white" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][Twitter]
 [<img align="left" alt="UmarKhatab | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][LinkedInn]
 
