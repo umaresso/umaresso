@@ -2,7 +2,7 @@
 ##      Hey there 👋 , I am Umar Khatab!
 ### I am a Rustacean !!
 
--  I just have made a [Grepper] in Rust.
+-  I just have made a [Text Editor] in Rust.
 -  Getting Proficient in Rust.
 -  Loking forward to connect with Solana Developers.
 -  What You will find on my Github Profile
@@ -44,7 +44,7 @@ If you want to have real chat with me on Social media , feel free to Connect at 
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/nolan/64/github.png" />][dummy]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][dummy]
 
-[Grepper]: https://github.com/umaresso/cwd-grepper-Rust
+[Text Editor]: https://github.com/umaresso/Text-Editor-Rust
 [LinkedInn]: https://www.linkedin.com/in/umarkhatab465
 [Twitter]: https://twitter.com/umarkhatab465
 [dummy]: https://github.com/umaresso
