@@ -1,15 +1,14 @@
 ### Thank you for visting my Profile  
 ##      Hey there 👋 , I am Umar Khatab!
-### I am a Rustacean !!
+### I am becoming a Solana Developer !!
 
 -  I just have made a [Text Editor] in Rust.
--  Getting Proficient in Rust.
--  Loking forward to connect with Solana Developers.
+-  Currently learning Anchor Framework.
 -  What You will find on my Github Profile
 
-        1) Rust Development 
+        1) Rust Development ( Projects Exhibitting my understanding of Rust );
         
-        2) Solana Development ( in the future )
+        2) Solana Development ( Currently Working on  )
         
         3) Ethereum Development ( Done a few Months Ago )
         
@@ -17,6 +16,10 @@
         
         5) Artificial Intelligence ( Done some University Projects regarding basic AI )
                 
+-  Goal
+        To Help you become highly paid Blockchain developer and innovate 
+        If that's something you are looking for, feel free to Follow me.
+
 - ⚡ Fun fact: I love to Sing music of Multiple Genres
 
 
